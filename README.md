@@ -1,4 +1,4 @@
-# LayoutGoogle-didactic
+# Layout Google
 #### Descrição:
      Reproduzindo o design do site do google
 #### Status:
